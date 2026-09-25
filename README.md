@@ -4,7 +4,7 @@ Simulate player input in Godot 4 scenes and capture the result as PNG. Built for
 
 ## The Problem
 
-AI agents can capture static screenshots of Godot scenes (via [godot-preview](https://github.com/TJ-Dev-Studio/godot-preview)), but can't test what happens when a player taps a button, drags the screen, or presses a key.
+AI agents can capture static screenshots of Godot scenes (via [godot-preview](https://github.com/sillypad-games/godot-preview)), but can't test what happens when a player taps a button, drags the screen, or presses a key.
 
 ## The Solution
 
@@ -19,7 +19,7 @@ AI agents can capture static screenshots of Godot scenes (via [godot-preview](ht
 ## Install
 
 ```bash
-git clone https://github.com/TJ-Dev-Studio/godot-interact.git
+git clone https://github.com/sillypad-games/godot-interact.git
 cd godot-interact
 chmod +x godot_interact.sh
 
@@ -55,7 +55,7 @@ See [CLAUDE.md](CLAUDE.md) for the full AI agent workflow guide.
 
 No display, no screen recording, no manual testing required.
 
-Part of the [Godot Agent Kit](https://github.com/TJ-Dev-Studio/godot-agent-kit).
+Part of the [Godot Agent Kit](https://github.com/sillypad-games/godot-agent-kit).
 
 ## License
 
